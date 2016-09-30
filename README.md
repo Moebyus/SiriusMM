@@ -1,2 +1,2 @@
-# Sirius_MM
+# SiriusMM
 Impresora dual con carros independientes.
